@@ -1,0 +1,8 @@
+venv/*
+roms/*/__pycache__/*
+roms/*/migrations/0*
+roms/*/migrations/__pycache__/*
+
+.env
+__pycache__
+*.pyc
